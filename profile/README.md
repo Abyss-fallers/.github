@@ -212,7 +212,7 @@ We do things
 
 **ITB** (IT Exchange) is a freelance marketplace specifically designed for programmers. It connects talented developers with clients looking for professional coding expertise. Our platform offers a wide range of features to streamline the process of finding and managing freelance projects, ensuring a seamless experience for both freelancers and clients.
 
-### 2. [Bogosort](https://github.com/abyss-fallers/another-project)
+### 2. [Bogosort](https://github.com/Abyss-fallers/Bogo-sort)
 
 **Bogosort** Visualizer
 
