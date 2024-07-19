@@ -194,6 +194,17 @@ We do things
       </a>
       <br>C++
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img
+          src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg"
+          width="36"
+          height="36"
+          alt="Go"
+        />
+      </a>
+      <br>Go
+    </td>
     <td align="center" width="110" height="90"> 
       <a href="#tech-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
