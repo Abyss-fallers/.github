@@ -100,18 +100,43 @@ We do things
       <br>Git
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
+      <a href="#tech-stack">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>npm
     </td>
      <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack" >
+      <a href="#tech-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>Github
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      </a>
+      <br>yarn
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width="36" height="36" alt="pnpm" />
+      </a>
+      <br>pnpm
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" width="36" height="36" alt="bun" />
+      </a>
+      <br>bun
+    </td>
 </table>
 
 > Code quality
@@ -162,6 +187,17 @@ We do things
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
         <img
+          src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png"
+          width="36"
+          height="36"
+          alt="Next JS"
+        />
+      </a>
+      <br>Next JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img
           src="https://cdn.worldvectorlogo.com/logos/redux.svg"
           width="36"
           height="36"
@@ -180,6 +216,12 @@ We do things
         />
       </a>
       <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
     </td>
   </tr>
 </table>
@@ -226,11 +268,24 @@ We do things
   </tr> 
 </table>
 
+> Desktop
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="Electron" />
+      </a>
+      <br>Electron
+    </td>
+  </tr> 
+</table>
+
 <br>
 
 ## 📂 Our Projects
 
-### 1. [ITB - IT Exchange](https://github.com/abyss-fallers/itb)
+### 1. [ITB - IT Exchange](https://github.com/Abyss-fallers/ITB-FRONTEND)
 
 **ITB** (IT Exchange) is a freelance marketplace specifically designed for programmers. It connects talented developers with clients looking for professional coding expertise. Our platform offers a wide range of features to streamline the process of finding and managing freelance projects, ensuring a seamless experience for both freelancers and clients.
 
