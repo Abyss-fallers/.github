@@ -28,17 +28,6 @@ We do things
       </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 100; height: 100">
-      <a href="https://github.com/AlexxxeyKuleshov" style="text-decoration: none;">
-        <img
-          src="https://avatars.githubusercontent.com/u/149209268?v=4"
-          width="100;"
-          alt="Kuleshov A"
-        />
-        <br />
-        <sub style="font-size:13px"><b>Kuleshov&nbsp;Alexey</b></sub>
-      </a>
-    </td>
-        <td align="center" style="word-wrap: break-word; width: 100; height: 100">
       <a href="https://github.com/stxreocoma" style="text-decoration: none;">
         <img
           src="https://avatars.githubusercontent.com/u/164244607?v=4"
